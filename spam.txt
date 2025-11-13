@@ -1,4 +1,2 @@
-Hi, I am the new QAE
-It is wonderful meeting you all in Google
-Nice meeting you all
-Hope, we will work together for the team
+def class:
+  pass
